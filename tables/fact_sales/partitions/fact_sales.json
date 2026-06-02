@@ -1,0 +1,10 @@
+{
+  "name": "fact_sales",
+  "mode": "directLake",
+  "source": {
+    "type": "entity",
+    "entityName": "fact_sales",
+    "expressionSource": "DirectLake - Northwind_Lakehouse",
+    "schemaName": "gold"
+  }
+}

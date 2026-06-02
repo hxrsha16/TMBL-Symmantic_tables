@@ -1,0 +1,12 @@
+{
+  "name": "Total_Discount",
+  "expression": "SUM(fact_sales[DiscountAmount])",
+  "displayFolder": "Sales",
+  "lineageTag": "dae8742e-0df6-4c22-bb56-654e281e282f",
+  "annotations": [
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

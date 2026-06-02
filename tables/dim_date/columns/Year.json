@@ -1,0 +1,15 @@
+{
+  "name": "Year",
+  "dataType": "int64",
+  "sourceColumn": "Year",
+  "formatString": "0",
+  "lineageTag": "9a106057-1346-44eb-bf22-a5a09ce6de52",
+  "sourceLineageTag": "Year",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

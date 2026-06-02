@@ -1,0 +1,7 @@
+{
+  "name": "Products_Sold",
+  "expression": "SUM(fact_sales[Quantity])",
+  "formatString": "0",
+  "displayFolder": "Sales",
+  "lineageTag": "94f6b568-2509-488a-9ab3-aecab7006dce"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Previous Year Revenue",
+  "expression": "CALCULATE([Revenue], SAMEPERIODLASTYEAR(dim_date[Date]))",
+  "displayFolder": "Time Intelligence",
+  "lineageTag": "af67d07f-c46e-4ffc-9fd8-d5855b9b5db6",
+  "annotations": [
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

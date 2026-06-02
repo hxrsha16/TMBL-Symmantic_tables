@@ -1,0 +1,7 @@
+{
+  "name": "Total_Customers",
+  "expression": "DISTINCTCOUNT(fact_sales[CustomerID])",
+  "formatString": "0",
+  "displayFolder": "Customers",
+  "lineageTag": "58bc0019-3d7c-4bd4-8f97-13255a542746"
+}

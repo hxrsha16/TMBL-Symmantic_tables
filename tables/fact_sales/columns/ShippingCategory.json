@@ -1,0 +1,14 @@
+{
+  "name": "ShippingCategory",
+  "dataType": "string",
+  "sourceColumn": "ShippingCategory",
+  "lineageTag": "a04f9a76-68fe-47ca-8f2c-ebb1b034000c",
+  "sourceLineageTag": "ShippingCategory",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

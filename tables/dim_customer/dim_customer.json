@@ -1,0 +1,20 @@
+{
+  "name": "dim_customer",
+  "lineageTag": "216f0b44-b315-443c-8130-20966d43407b",
+  "sourceLineageTag": "[gold].[dim_customer]",
+  "annotations": [
+    {
+      "name": "TabularEditor_Relationships",
+      "value": [
+        "[",
+        "  {",
+        "    \"fromTable\": \"dim_customer\",",
+        "    \"fromColumn\": \"Country\",",
+        "    \"toTable\": \"Security\",",
+        "    \"toColumn\": \"Country\"",
+        "  }",
+        "]"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "MonthShort",
+  "dataType": "string",
+  "sourceColumn": "MonthShort",
+  "lineageTag": "5a619e1b-7eec-4426-8da6-e2edc856fb72",
+  "sourceLineageTag": "MonthShort",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

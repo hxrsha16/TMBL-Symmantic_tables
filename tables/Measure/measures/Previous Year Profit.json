@@ -1,0 +1,18 @@
+{
+  "name": "Previous Year Profit",
+  "expression": [
+    "",
+    "CALCULATE(",
+    "    [Profit],",
+    "    SAMEPERIODLASTYEAR(dim_date[Date])",
+    ")"
+  ],
+  "displayFolder": "Time Intelligence",
+  "lineageTag": "17dcbd28-e3aa-4a36-ac0a-f0ab9f81ff8e",
+  "annotations": [
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

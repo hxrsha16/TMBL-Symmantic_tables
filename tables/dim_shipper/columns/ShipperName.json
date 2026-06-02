@@ -1,0 +1,14 @@
+{
+  "name": "ShipperName",
+  "dataType": "string",
+  "sourceColumn": "ShipperName",
+  "lineageTag": "0c637021-3040-4819-b2ff-f417b3badf66",
+  "sourceLineageTag": "ShipperName",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

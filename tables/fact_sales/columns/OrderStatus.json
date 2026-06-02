@@ -1,0 +1,14 @@
+{
+  "name": "OrderStatus",
+  "dataType": "string",
+  "sourceColumn": "OrderStatus",
+  "lineageTag": "4827ad53-d8dd-4a2a-b513-c4bb1f5a2bc1",
+  "sourceLineageTag": "OrderStatus",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

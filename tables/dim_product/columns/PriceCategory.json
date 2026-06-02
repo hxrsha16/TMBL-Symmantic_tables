@@ -1,0 +1,14 @@
+{
+  "name": "PriceCategory",
+  "dataType": "string",
+  "sourceColumn": "PriceCategory",
+  "lineageTag": "8052b62d-e953-4703-ad61-c94b81f65019",
+  "sourceLineageTag": "PriceCategory",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

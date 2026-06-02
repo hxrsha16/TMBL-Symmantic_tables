@@ -1,0 +1,15 @@
+{
+  "name": "SupplierID",
+  "dataType": "int64",
+  "sourceColumn": "SupplierID",
+  "formatString": "0",
+  "lineageTag": "b1268a01-dd2b-4e59-bb34-91b80fe29432",
+  "sourceLineageTag": "SupplierID",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

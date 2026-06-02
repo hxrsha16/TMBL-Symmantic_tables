@@ -1,0 +1,6 @@
+{
+  "name": "Top Employee",
+  "expression": "MAXX(TOPN(1,SUMMARIZECOLUMNS(dim_employee[Full_Name],\"Rev\", [Revenue]), [Rev], DESC),dim_employee[Full_Name])",
+  "displayFolder": "Employee",
+  "lineageTag": "f89bff7a-a5f8-45a6-82da-194fec623a4b"
+}

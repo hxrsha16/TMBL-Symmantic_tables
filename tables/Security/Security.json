@@ -1,0 +1,14 @@
+{
+  "name": "Security",
+  "lineageTag": "7937d4d5-405a-41de-9d8e-199dd2e32b9a",
+  "annotations": [
+    {
+      "name": "PBI_Id",
+      "value": "3cde5a84a46b41c7a80753c63d8558fa"
+    },
+    {
+      "name": "TabularEditor_Relationships",
+      "value": "[]"
+    }
+  ]
+}

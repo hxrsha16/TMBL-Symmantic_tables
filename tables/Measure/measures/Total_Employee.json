@@ -1,0 +1,7 @@
+{
+  "name": "Total_Employee",
+  "expression": "DISTINCTCOUNT(fact_sales[EmployeeID])",
+  "formatString": "0",
+  "displayFolder": "Employee",
+  "lineageTag": "e559abea-d176-42ff-a4b5-3eced2576b32"
+}

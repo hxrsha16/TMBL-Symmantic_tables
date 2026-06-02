@@ -1,0 +1,21 @@
+{
+  "name": "DateKey",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "DateKey",
+  "formatString": "0",
+  "lineageTag": "41456b97-be5b-41b5-86c6-f6412f610bcd",
+  "sourceLineageTag": "DateKey",
+  "summarizeBy": "none",
+  "changedProperties": [
+    {
+      "property": "IsHidden"
+    }
+  ],
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

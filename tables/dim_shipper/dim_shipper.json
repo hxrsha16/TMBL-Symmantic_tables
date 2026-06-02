@@ -1,0 +1,11 @@
+{
+  "name": "dim_shipper",
+  "lineageTag": "7280c322-506e-404c-981a-a7840e1c5e66",
+  "sourceLineageTag": "[gold].[dim_shipper]",
+  "annotations": [
+    {
+      "name": "TabularEditor_Relationships",
+      "value": "[]"
+    }
+  ]
+}

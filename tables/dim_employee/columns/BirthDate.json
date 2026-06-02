@@ -1,0 +1,15 @@
+{
+  "name": "BirthDate",
+  "dataType": "dateTime",
+  "sourceColumn": "BirthDate",
+  "formatString": "General Date",
+  "lineageTag": "317cb634-da26-41e6-86ba-6d6c45f02cbc",
+  "sourceLineageTag": "BirthDate",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

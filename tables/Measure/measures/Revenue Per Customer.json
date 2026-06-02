@@ -1,0 +1,15 @@
+{
+  "name": "Revenue Per Customer",
+  "expression": [
+    "",
+    "DIVIDE([Revenue], [Total_Customers], 0)"
+  ],
+  "displayFolder": "Customers",
+  "lineageTag": "96a6fad3-2cbd-4ce0-8b12-aac1ae66d9de",
+  "annotations": [
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

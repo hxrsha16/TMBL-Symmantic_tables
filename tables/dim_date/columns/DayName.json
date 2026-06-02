@@ -1,0 +1,14 @@
+{
+  "name": "DayName",
+  "dataType": "string",
+  "sourceColumn": "DayName",
+  "lineageTag": "5871b350-709b-46ce-aeeb-578f4b77c5bc",
+  "sourceLineageTag": "DayName",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

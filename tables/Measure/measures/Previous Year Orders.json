@@ -1,0 +1,13 @@
+{
+  "name": "Previous Year Orders",
+  "expression": [
+    "",
+    "CALCULATE(",
+    "    [Total_Orders],",
+    "    SAMEPERIODLASTYEAR(dim_date[Date])",
+    ")"
+  ],
+  "formatString": "0",
+  "displayFolder": "Orders",
+  "lineageTag": "173aad2e-ed1f-4d75-a9a4-ad1b0df236ca"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "GrossSales",
+  "dataType": "double",
+  "sourceColumn": "GrossSales",
+  "lineageTag": "78f66054-4d63-4466-bf5f-af4c3b6aaf8f",
+  "sourceLineageTag": "GrossSales",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

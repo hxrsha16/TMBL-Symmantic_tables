@@ -1,0 +1,18 @@
+{
+  "name": "EstimatedCost",
+  "dataType": "double",
+  "sourceColumn": "EstimatedCost",
+  "lineageTag": "42814653-5924-4ae9-848d-6344d841335b",
+  "sourceLineageTag": "EstimatedCost",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

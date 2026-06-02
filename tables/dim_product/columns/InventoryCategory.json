@@ -1,0 +1,14 @@
+{
+  "name": "InventoryCategory",
+  "dataType": "string",
+  "sourceColumn": "InventoryCategory",
+  "lineageTag": "77360c26-f777-4799-8259-f0bad533e252",
+  "sourceLineageTag": "InventoryCategory",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

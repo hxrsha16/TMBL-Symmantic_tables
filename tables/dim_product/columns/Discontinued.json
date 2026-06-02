@@ -1,0 +1,15 @@
+{
+  "name": "Discontinued",
+  "dataType": "boolean",
+  "sourceColumn": "Discontinued",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "lineageTag": "073f453a-9eda-44d4-ba58-692bcf5ec6c8",
+  "sourceLineageTag": "Discontinued",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

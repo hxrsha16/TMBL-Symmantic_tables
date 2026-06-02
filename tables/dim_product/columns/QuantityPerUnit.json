@@ -1,0 +1,14 @@
+{
+  "name": "QuantityPerUnit",
+  "dataType": "string",
+  "sourceColumn": "QuantityPerUnit",
+  "lineageTag": "970b6046-c074-4819-a309-88ccb39dcf64",
+  "sourceLineageTag": "QuantityPerUnit",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

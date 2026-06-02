@@ -1,0 +1,14 @@
+{
+  "name": "Measure",
+  "lineageTag": "525f598f-be94-474c-92b2-5ba82e5eaff2",
+  "annotations": [
+    {
+      "name": "PBI_Id",
+      "value": "3829740b778a46098923c7bb336f1ef0"
+    },
+    {
+      "name": "TabularEditor_Relationships",
+      "value": "[]"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "USA_Manager",
+  "modelPermission": "read",
+  "members": [
+    {
+      "memberName": "harshavardhan.ka@unvired.com",
+      "memberId": "4ce5d20d-4db6-4eb1-8187-f1164e764a56",
+      "identityProvider": "AzureAD",
+      "memberType": "user"
+    }
+  ],
+  "tablePermissions": [
+    {
+      "name": "dim_customer",
+      "filterExpression": "[Country] == \"USAzdfxghcjkl\""
+    },
+    {
+      "name": "Security",
+      "filterExpression": "Security[Email] = USERPRINCIPALNAME()"
+    }
+  ],
+  "annotations": [
+    {
+      "name": "PBI_Id",
+      "value": "3da2ccf14813408a83f199ad8c38a18f"
+    }
+  ]
+}

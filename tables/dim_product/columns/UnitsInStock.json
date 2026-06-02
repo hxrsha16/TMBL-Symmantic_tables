@@ -1,0 +1,15 @@
+{
+  "name": "UnitsInStock",
+  "dataType": "int64",
+  "sourceColumn": "UnitsInStock",
+  "formatString": "0",
+  "lineageTag": "5e0012bb-9612-4057-a233-c5661adba5fb",
+  "sourceLineageTag": "UnitsInStock",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

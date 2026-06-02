@@ -1,0 +1,12 @@
+{
+  "name": "Revenue",
+  "expression": "Sum(fact_sales[Total_Revenue])",
+  "displayFolder": "Sales",
+  "lineageTag": "e374de11-279a-42dc-abbf-5c586a1ef2d0",
+  "annotations": [
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

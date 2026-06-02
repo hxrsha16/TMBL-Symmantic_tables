@@ -1,0 +1,14 @@
+{
+  "name": "CompanyName",
+  "dataType": "string",
+  "sourceColumn": "CompanyName",
+  "lineageTag": "331c4a03-c68f-4cbc-9ce1-32d1b6a4338b",
+  "sourceLineageTag": "CompanyName",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}
