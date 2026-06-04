@@ -1,0 +1,15 @@
+{
+  "name": "Orders Per Customer",
+  "expression": [
+    "",
+    "DIVIDE([Total_Orders],[Total_Customers],0)"
+  ],
+  "displayFolder": "Orders",
+  "lineageTag": "261142c8-d2a1-47e0-ba71-6ce82ce6b09e",
+  "annotations": [
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

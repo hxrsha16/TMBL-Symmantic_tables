@@ -1,0 +1,14 @@
+{
+  "name": "MonthName",
+  "dataType": "string",
+  "sourceColumn": "MonthName",
+  "lineageTag": "ff9d6a2a-e5d2-4cbc-b027-67b46ba4ce3f",
+  "sourceLineageTag": "MonthName",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

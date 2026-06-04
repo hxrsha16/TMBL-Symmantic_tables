@@ -1,0 +1,6 @@
+{
+  "name": "Best Month",
+  "expression": "MAXX(TOPN(1, SUMMARIZECOLUMNS(dim_date[YearMonth], \"rev\", [Revenue]),[rev],DESC), dim_date[YearMonth])",
+  "displayFolder": "Time Intelligence",
+  "lineageTag": "d853ecc0-b069-4e0d-9352-21e0b48d2055"
+}

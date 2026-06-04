@@ -1,0 +1,12 @@
+{
+  "name": "Gross_Sales",
+  "expression": "sum(fact_sales[GrossSales]) ",
+  "displayFolder": "Sales",
+  "lineageTag": "10bfd7bf-c3f0-4787-9a09-9e2c9d9f6308",
+  "annotations": [
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

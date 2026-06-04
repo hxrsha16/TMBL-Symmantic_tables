@@ -1,0 +1,21 @@
+{
+  "name": "OrderID",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "OrderID",
+  "formatString": "0",
+  "lineageTag": "c943b9bf-7197-4698-b784-4f0d144017a2",
+  "sourceLineageTag": "OrderID",
+  "summarizeBy": "count",
+  "changedProperties": [
+    {
+      "property": "IsHidden"
+    }
+  ],
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

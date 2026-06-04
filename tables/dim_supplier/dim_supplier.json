@@ -1,0 +1,11 @@
+{
+  "name": "dim_supplier",
+  "lineageTag": "e5f6f696-8a39-4d0d-aed1-473ef64fd41b",
+  "sourceLineageTag": "[gold].[dim_supplier]",
+  "annotations": [
+    {
+      "name": "TabularEditor_Relationships",
+      "value": "[]"
+    }
+  ]
+}

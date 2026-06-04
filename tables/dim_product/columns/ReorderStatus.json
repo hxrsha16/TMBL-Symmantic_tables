@@ -1,0 +1,14 @@
+{
+  "name": "ReorderStatus",
+  "dataType": "string",
+  "sourceColumn": "ReorderStatus",
+  "lineageTag": "1cd050f7-5a3b-4a73-8280-9f7579f0f2d1",
+  "sourceLineageTag": "ReorderStatus",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

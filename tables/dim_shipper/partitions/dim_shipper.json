@@ -1,0 +1,10 @@
+{
+  "name": "dim_shipper",
+  "mode": "directLake",
+  "source": {
+    "type": "entity",
+    "entityName": "dim_shipper",
+    "expressionSource": "DirectLake - Northwind_Lakehouse",
+    "schemaName": "gold"
+  }
+}

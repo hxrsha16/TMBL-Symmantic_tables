@@ -1,0 +1,21 @@
+{
+  "name": "CategoryID",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "CategoryID",
+  "formatString": "0",
+  "lineageTag": "1e9069f3-4213-41fe-b89a-50ee9da489f5",
+  "sourceLineageTag": "CategoryID",
+  "summarizeBy": "count",
+  "changedProperties": [
+    {
+      "property": "IsHidden"
+    }
+  ],
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

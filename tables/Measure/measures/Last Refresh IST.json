@@ -1,0 +1,13 @@
+{
+  "name": "Last Refresh IST",
+  "expression": [
+    "",
+    "\"Last Refresh: \" &",
+    "FORMAT(",
+    "    NOW() + TIME(5,30,0),",
+    "    \"dd-MMM-yyyy HH:mm\"",
+    ")"
+  ],
+  "displayFolder": "System",
+  "lineageTag": "6a5b7b10-e576-4c75-a1b6-cfc00cea5eae"
+}

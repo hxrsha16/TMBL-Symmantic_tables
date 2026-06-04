@@ -1,0 +1,9 @@
+{
+  "name": "Orders Per Employee",
+  "expression": [
+    "",
+    "DIVIDE([Total_Orders],[Total_Employee],0)"
+  ],
+  "displayFolder": "Orders",
+  "lineageTag": "985b6268-0a00-46a1-a77c-0f651dc66ec8"
+}

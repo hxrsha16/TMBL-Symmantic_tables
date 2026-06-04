@@ -1,0 +1,15 @@
+{
+  "name": "EmployeeID",
+  "dataType": "int64",
+  "sourceColumn": "EmployeeID",
+  "formatString": "0",
+  "lineageTag": "ba2e2a45-f4e7-4213-a94a-ac5079d772d5",
+  "sourceLineageTag": "EmployeeID",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

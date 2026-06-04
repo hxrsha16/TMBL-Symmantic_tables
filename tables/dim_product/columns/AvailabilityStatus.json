@@ -1,0 +1,14 @@
+{
+  "name": "AvailabilityStatus",
+  "dataType": "string",
+  "sourceColumn": "AvailabilityStatus",
+  "lineageTag": "4761a5f2-fc9a-4180-88dd-a6daf11d6774",
+  "sourceLineageTag": "AvailabilityStatus",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

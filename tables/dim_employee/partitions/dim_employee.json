@@ -1,0 +1,10 @@
+{
+  "name": "dim_employee",
+  "mode": "directLake",
+  "source": {
+    "type": "entity",
+    "entityName": "dim_employee",
+    "expressionSource": "DirectLake - Northwind_Lakehouse",
+    "schemaName": "gold"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Profit",
+  "expression": "SUM(fact_sales[Profit])",
+  "displayFolder": "Profitability",
+  "lineageTag": "e186e3d7-afe4-4990-a7ed-3144167ef5ca",
+  "annotations": [
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

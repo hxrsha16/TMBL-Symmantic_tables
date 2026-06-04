@@ -1,0 +1,15 @@
+{
+  "name": "Total Freight",
+  "expression": [
+    "",
+    "SUM(fact_sales[Freight])"
+  ],
+  "displayFolder": "Sales",
+  "lineageTag": "63f87315-012f-48e5-8272-62b50619f82b",
+  "annotations": [
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

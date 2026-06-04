@@ -1,0 +1,12 @@
+{
+  "name": "Profit Margin %",
+  "expression": "DIVIDE([Profit],[Revenue], 0)",
+  "displayFolder": "Profitability",
+  "lineageTag": "ec7f987e-bb0a-4e50-8d99-c425d3a7ab1c",
+  "annotations": [
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

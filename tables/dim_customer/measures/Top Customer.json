@@ -1,0 +1,10 @@
+{
+  "name": "Top Customer",
+  "expression": "MAXX(TOPN(1, SUMMARIZECOLUMNS(dim_customer[CompanyName], \"rev\", [Revenue]),[rev], DESC), dim_customer[CompanyName])",
+  "lineageTag": "4cbbdc22-9fdd-4fd3-a639-b9141e15868e",
+  "changedProperties": [
+    {
+      "property": "Name"
+    }
+  ]
+}

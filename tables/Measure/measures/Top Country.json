@@ -1,0 +1,6 @@
+{
+  "name": "Top Country",
+  "expression": "MAXX(TOPN(1,SUMMARIZECOLUMNS(dim_customer[Country],\"Rev\", [Revenue]), [Rev], DESC),dim_customer[Country])",
+  "displayFolder": "Customers",
+  "lineageTag": "9f8589e5-1ef6-4a0d-b1c4-35df0b90652a"
+}

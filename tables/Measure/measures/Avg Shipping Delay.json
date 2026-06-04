@@ -1,0 +1,12 @@
+{
+  "name": "Avg Shipping Delay",
+  "expression": "AVERAGE(fact_sales[ShippingDelayDays])",
+  "displayFolder": "Sales",
+  "lineageTag": "f3ea1ebe-8ff1-447c-8e18-0cd5ddb38fa7",
+  "annotations": [
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

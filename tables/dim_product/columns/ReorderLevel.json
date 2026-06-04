@@ -1,0 +1,15 @@
+{
+  "name": "ReorderLevel",
+  "dataType": "int64",
+  "sourceColumn": "ReorderLevel",
+  "formatString": "0",
+  "lineageTag": "8b9ff385-d2e5-48dc-b843-63c4e2f340d5",
+  "sourceLineageTag": "ReorderLevel",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

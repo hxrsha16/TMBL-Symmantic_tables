@@ -1,0 +1,15 @@
+{
+  "name": "HireDate",
+  "dataType": "dateTime",
+  "sourceColumn": "HireDate",
+  "formatString": "General Date",
+  "lineageTag": "862b9539-4a1b-431c-93cf-8635766e4d52",
+  "sourceLineageTag": "HireDate",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

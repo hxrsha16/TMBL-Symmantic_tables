@@ -1,0 +1,15 @@
+{
+  "name": "Quarter",
+  "dataType": "int64",
+  "sourceColumn": "Quarter",
+  "formatString": "0",
+  "lineageTag": "9556747f-98e7-421c-8afb-c588c7954480",
+  "sourceLineageTag": "Quarter",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

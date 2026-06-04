@@ -1,0 +1,7 @@
+{
+  "name": "Total_Orders",
+  "expression": "DISTINCTCOUNT(fact_sales[OrderID])",
+  "formatString": "0",
+  "displayFolder": "Orders",
+  "lineageTag": "952f1f2f-89d5-4779-855d-f90406816086"
+}

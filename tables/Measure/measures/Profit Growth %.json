@@ -1,0 +1,19 @@
+{
+  "name": "Profit Growth %",
+  "expression": [
+    "",
+    "DIVIDE(",
+    "    [Profit] - [Previous Year Profit],",
+    "    [Previous Year Profit],",
+    "    0",
+    ")"
+  ],
+  "displayFolder": "Growth",
+  "lineageTag": "474309c5-c489-41a4-a1bd-355c6e182ed2",
+  "annotations": [
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Security",
+  "mode": "import",
+  "source": {
+    "type": "calculated",
+    "expression": [
+      "",
+      "DATATABLE(",
+      "    \"Email\", STRING,",
+      "    \"Country\", STRING,",
+      "    {",
+      "        {\"india@company.com\", \"Brazil\"},",
+      "        {\"harshavardhan.ka@unvired.com\", \"USA\"},",
+      "        {\"uk@company.com\", \"UK\"}",
+      "    }",
+      ")"
+    ]
+  }
+}

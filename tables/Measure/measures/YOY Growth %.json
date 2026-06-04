@@ -1,0 +1,12 @@
+{
+  "name": "YOY Growth %",
+  "expression": "DIVIDE([Revenue] - [Previous Year Revenue] , [Previous Year Revenue])",
+  "displayFolder": "Growth",
+  "lineageTag": "7c3f7d5e-58e3-4f36-9dd4-e1294d181fff",
+  "annotations": [
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Freight",
+  "dataType": "double",
+  "sourceColumn": "Freight",
+  "lineageTag": "0318ede8-4bc1-456a-bd93-4b3323d75500",
+  "sourceLineageTag": "Freight",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

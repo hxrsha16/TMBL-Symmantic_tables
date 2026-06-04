@@ -1,0 +1,12 @@
+{
+  "name": "Avg Order Value",
+  "expression": "DIVIDE([Revenue], [Total_Orders])",
+  "displayFolder": "Sales",
+  "lineageTag": "55298c47-7a34-4d6d-9dd6-0333d06c9df0",
+  "annotations": [
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

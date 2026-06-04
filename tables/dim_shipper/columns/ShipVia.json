@@ -1,0 +1,15 @@
+{
+  "name": "ShipVia",
+  "dataType": "int64",
+  "sourceColumn": "ShipVia",
+  "formatString": "0",
+  "lineageTag": "39397b41-76bc-448e-add9-3c06ac21c9d9",
+  "sourceLineageTag": "ShipVia",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

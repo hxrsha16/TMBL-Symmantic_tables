@@ -1,0 +1,6 @@
+{
+  "name": "Current User",
+  "expression": "USERPRINCIPALNAME()",
+  "displayFolder": "System",
+  "lineageTag": "8e8baea2-6caa-49cd-9caf-b779727b9c5b"
+}

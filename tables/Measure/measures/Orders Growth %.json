@@ -1,0 +1,19 @@
+{
+  "name": "Orders Growth %",
+  "expression": [
+    "",
+    "DIVIDE(",
+    "    [Total_Orders] - [Previous Year Orders],",
+    "    [Previous Year Orders],",
+    "    0",
+    ")"
+  ],
+  "displayFolder": "Growth",
+  "lineageTag": "17b7cf3f-6da8-45ce-bfde-8b3217793f9d",
+  "annotations": [
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

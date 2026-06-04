@@ -1,0 +1,16 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Email",
+  "dataType": "string",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[Email]",
+  "lineageTag": "80363642-22a4-4e10-941a-cd15295c355f",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

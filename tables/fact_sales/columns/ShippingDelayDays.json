@@ -1,0 +1,15 @@
+{
+  "name": "ShippingDelayDays",
+  "dataType": "int64",
+  "sourceColumn": "ShippingDelayDays",
+  "formatString": "0",
+  "lineageTag": "4d09676f-8b58-407b-add5-542aae3a6a06",
+  "sourceLineageTag": "ShippingDelayDays",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

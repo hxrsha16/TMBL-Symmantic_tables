@@ -1,0 +1,14 @@
+{
+  "name": "FreightCategory",
+  "dataType": "string",
+  "sourceColumn": "FreightCategory",
+  "lineageTag": "33d651f5-e289-4dd4-bd2a-630e85d3ad2d",
+  "sourceLineageTag": "FreightCategory",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

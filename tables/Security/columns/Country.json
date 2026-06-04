@@ -1,0 +1,16 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Country",
+  "dataType": "string",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[Country]",
+  "lineageTag": "6c98c4cf-51ad-400e-a6bc-7f4e28ae779a",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

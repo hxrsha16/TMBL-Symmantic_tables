@@ -1,0 +1,50 @@
+{
+  "name": "fact_sales",
+  "lineageTag": "204914e2-b823-4083-8e2f-081b4b289a0a",
+  "sourceLineageTag": "[gold].[fact_sales]",
+  "annotations": [
+    {
+      "name": "TabularEditor_Relationships",
+      "value": [
+        "[",
+        "  {",
+        "    \"fromTable\": \"fact_sales\",",
+        "    \"fromColumn\": \"CustomerID\",",
+        "    \"toTable\": \"dim_customer\",",
+        "    \"toColumn\": \"CustomerID\"",
+        "  },",
+        "  {",
+        "    \"fromTable\": \"fact_sales\",",
+        "    \"fromColumn\": \"DateKey\",",
+        "    \"toTable\": \"dim_date\",",
+        "    \"toColumn\": \"DateKey\"",
+        "  },",
+        "  {",
+        "    \"fromTable\": \"fact_sales\",",
+        "    \"fromColumn\": \"EmployeeID\",",
+        "    \"toTable\": \"dim_employee\",",
+        "    \"toColumn\": \"EmployeeID\"",
+        "  },",
+        "  {",
+        "    \"fromTable\": \"fact_sales\",",
+        "    \"fromColumn\": \"ProductID\",",
+        "    \"toTable\": \"dim_product\",",
+        "    \"toColumn\": \"ProductID\"",
+        "  },",
+        "  {",
+        "    \"fromTable\": \"fact_sales\",",
+        "    \"fromColumn\": \"ShipVia\",",
+        "    \"toTable\": \"dim_shipper\",",
+        "    \"toColumn\": \"ShipVia\"",
+        "  },",
+        "  {",
+        "    \"fromTable\": \"fact_sales\",",
+        "    \"fromColumn\": \"SupplierId\",",
+        "    \"toTable\": \"dim_supplier\",",
+        "    \"toColumn\": \"SupplierID\"",
+        "  }",
+        "]"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "CustomerFullAddress",
+  "dataType": "string",
+  "sourceColumn": "CustomerFullAddress",
+  "lineageTag": "d445a1c5-c1e3-410c-8479-adbb92d41bf0",
+  "sourceLineageTag": "CustomerFullAddress",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

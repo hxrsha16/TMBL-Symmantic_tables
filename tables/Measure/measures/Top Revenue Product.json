@@ -1,0 +1,6 @@
+{
+  "name": "Top Revenue Product",
+  "expression": "MAXX(TOPN(1, SUMMARIZECOLUMNS(dim_product[ProductName], \"rev\", [Revenue]),[rev], DESC), dim_product[ProductName])",
+  "displayFolder": "Sales",
+  "lineageTag": "195a96a1-aef3-4af8-988e-5f19784b8840"
+}

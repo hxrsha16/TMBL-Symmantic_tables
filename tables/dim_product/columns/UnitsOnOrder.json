@@ -1,0 +1,15 @@
+{
+  "name": "UnitsOnOrder",
+  "dataType": "int64",
+  "sourceColumn": "UnitsOnOrder",
+  "formatString": "0",
+  "lineageTag": "339da794-8b76-4f20-bbd7-4502c85465cb",
+  "sourceLineageTag": "UnitsOnOrder",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

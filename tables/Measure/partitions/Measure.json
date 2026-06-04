@@ -1,0 +1,8 @@
+{
+  "name": "Measure",
+  "mode": "import",
+  "source": {
+    "type": "calculated",
+    "expression": "{BLANK()}"
+  }
+}

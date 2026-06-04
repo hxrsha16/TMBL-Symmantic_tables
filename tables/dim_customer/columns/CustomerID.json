@@ -1,0 +1,15 @@
+{
+  "name": "CustomerID",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "CustomerID",
+  "lineageTag": "cd5b11f2-2422-4320-bcc5-68fe4b7ec21f",
+  "sourceLineageTag": "CustomerID",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "SupplierId",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "SupplierId",
+  "formatString": "0",
+  "lineageTag": "f198a5ad-dfb0-472e-a4b9-01b97ce45afb",
+  "sourceLineageTag": "SupplierId",
+  "summarizeBy": "none",
+  "changedProperties": [
+    {
+      "property": "IsHidden"
+    }
+  ],
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

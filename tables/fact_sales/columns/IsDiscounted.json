@@ -1,0 +1,14 @@
+{
+  "name": "IsDiscounted",
+  "dataType": "string",
+  "sourceColumn": "IsDiscounted",
+  "lineageTag": "417194b3-c0c7-4ac7-ba9f-6372343f9af0",
+  "sourceLineageTag": "IsDiscounted",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}
