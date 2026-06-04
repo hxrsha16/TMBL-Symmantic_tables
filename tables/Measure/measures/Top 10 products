@@ -1,0 +1,13 @@
+top_products = Top Product =
+SELECTCOLUMNS(
+    TOPN(
+        1,
+        SUMMARIZECOLUMNS(
+            dim_product[ProductName],
+            "rev", [Revenue]
+        ),
+        [rev],
+        DESC
+    ),
+    dim_product[ProductName]
+)
